@@ -44,9 +44,13 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/Rajkumar28072005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144980101/53528d46-d406-4725-bc30-d4713cb9389e)
 
-### Name:
-### Register Number:
+![image](https://github.com/Rajkumar28072005/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144980101/64683602-c403-44c5-9945-12b7bcbabd64)
+
+
+### Name:RAJKUMAR G
+### Register Number:212223230166
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
